@@ -66,9 +66,6 @@ scikit-learn==1.0.2
 streamlit==1.10.0
 ```
 
-### 📜 License
-This project is licensed under the MIT License.
-
 ### 👤 Author
 VXNOM12
 
